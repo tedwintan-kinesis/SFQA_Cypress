@@ -1,0 +1,13 @@
+{
+  "name": "sfqa-cypress",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "echo \"Replace with your application start command.\"",
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^14.0.0"
+  }
+}
